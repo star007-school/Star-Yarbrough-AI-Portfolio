@@ -2,7 +2,7 @@
 Applied AI Portfolio - Houston City College
 
 ## About Me
-I am an Applied AI student at Houston Community College focusing on computer vision and real-world AI applications.
+I am an Applied AI student at Houston City College focusing on computer vision and real-world AI applications.
 
 ## Skills
 - Python
